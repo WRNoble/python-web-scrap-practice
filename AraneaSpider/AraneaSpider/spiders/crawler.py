@@ -1,0 +1,1 @@
+from scrapy.linkextractors import LinkExtractor
